@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1019676002548-bgf1uahavl5htqd6eevc0e215igde8u2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1019676002548-bgf1uahavl5htqd6eevc0e215igde8u2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDS4GId9uk1-NryvECJB0f1zctUHmSFxQI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1019676002548</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.AppSynergyChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>synergy-chat-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>synergy-chat-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1019676002548:ios:f42ecaf9587c412daa76a1</string>
+</dict>
+</plist>

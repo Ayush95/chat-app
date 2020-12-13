@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019676002548",
+    "project_id": "synergy-chat-app",
+    "storage_bucket": "synergy-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019676002548:android:d17e93d0a967be41aa76a1",
+        "android_client_info": {
+          "package_name": "com.example.AppSynergy_Chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019676002548-h6a06llsk305fvu8ltcsu631vqbancbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj_ZSY_FJmYiWlQ9u-xXBMkg9S8pcIBRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019676002548-h6a06llsk305fvu8ltcsu631vqbancbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
